@@ -4,11 +4,7 @@
   <img src="https://1000logos.net/wp-content/uploads/2023/04/TurboTax-logo.png" alt="TurboTax Premium Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://turbo-tax.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_TurboTax_Premium-blue?style=for-the-badge&logo=intuit" alt="Get TurboTax Premium"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://brigitteubenard67.github.io/.github/Turbo-Tax)
 
 ---
 
